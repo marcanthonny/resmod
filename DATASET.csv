@@ -1,0 +1,35 @@
+Risiko Ancaman Keamanan,Occurence,Severity,Detection,RPN,RSV
+Kebakaran,1,5,1,5,5
+Kebocoran,2,1,1,2,2
+Aksi Kriminal Pencurian,1,3,1,3,3
+Aksi Pengerusakan,1,3,1,3,3
+Kehilangan peralatan,1,3,1,3,3
+Kerusakan peralatan,2,2,2,8,4
+Kehilangan spare part armada,2,3,1,6,6
+Kerusakan armada,3,3,1,9,9
+Karyawan bekerja tidak sesuai SOP,4,3,1,12,12
+Karyawan menyalahgunakan wewenangnya,4,3,1,12,12
+Penyalahgunaan informasi oleh siapapun,1,2,1,2,2
+Kebocoran rahasia perusahaan,1,3,1,3,3
+Salah informasi ketika komunikasi,4,3,1,12,12
+Kerusakan barang,4,2,4,32,8
+Ketidaktepatan kuantiti/jumlah barang,4,2,5,40,8
+Kerusakan barang,4,2,4,32,8
+Ketidaktepatan kuantiti/jumlah barang,4,2,5,40,8
+Kerusakan barang,4,2,4,32,8
+Kerusakan barang,1,2,4,8,2
+Kehilangan barang,1,2,1,2,2
+Kerusakan barang,4,3,4,48,12
+Adanya tindakan kriminal,4,3,4,48,12
+Kecelakaan di jalan selama pengiriman,4,3,4,48,12
+Kerusakan armada saat pengiriman,4,3,3,36,12
+Gunung meletus,1,3,1,3,3
+Gempa,2,4,1,8,8
+Ketidakpatuhan mitra bisnis terhadap aturan perusahaan,4,1,3,12,4
+Keterlambatan kedatangan armada,2,1,3,6,2
+Armada tidak sesuai spesifikasi,2,2,3,12,4
+Vendor perusahaan mengambil alih customer perusahaan tanpa sepengetahuan perusahaan,4,2,3,24,8
+,,,,,
+Customer perusahaan mengontak langsung vendor  perusahaan tanpa sepengetahuan perusahaan,4,2,3,24,8
+,,,,,
+Komplain dari pelanggan,5,3,3,45,15
